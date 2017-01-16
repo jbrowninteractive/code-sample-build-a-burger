@@ -4,7 +4,7 @@ McDonald's Build-A-Burger
 
 ## Description ##
 
-[insert_description]
+Web application that allowed users to create and customize their own burger. The project was built using a Node.js/Express server, MongoDB for storage and deployed/scaled using AWS Elastic Beanstalk.
 
 ## Role ##
 
