@@ -9,7 +9,7 @@ McDonald's Build-A-Burger
 ## Role ##
 
 Lead Backend-Developer  
-Front-End Admin Panel Developer
+Front-End CMS Developer
 
 ## Images ##
 
