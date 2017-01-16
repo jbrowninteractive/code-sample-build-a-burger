@@ -8,7 +8,7 @@ McDonald's Build-A-Burger
 
 ## Role ##
 
-[insert_role]
+Lead Back-end Developer
 
 ## Images ##
 
